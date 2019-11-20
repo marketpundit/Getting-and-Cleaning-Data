@@ -1,5 +1,4 @@
-# Cleaning and Getting Data course project code book
-
+# Cleaning and Getting Data: Course Project *CODE BOOK*
 The analysis script, run_analysis.R reads in the processed experiment data and performs a number of steps to get it into summary form.
 
 ## Download the dataset
