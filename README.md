@@ -2,6 +2,8 @@
 
 Data set analysis performed on: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone (Samsung Galaxy S II) with embedded inertial sensors.
 
+Data set source: [Human Activity Recognition Using Smartphones](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 ## Contents
 - CodeBook.md - Describes the experiment data and the steps taken to summarize the data.
 - run_analysis.R - R script to merge, clean-up, transform, and summarize the experiment data.
